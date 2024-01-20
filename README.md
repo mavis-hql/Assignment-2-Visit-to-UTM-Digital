@@ -13,13 +13,13 @@
   giving us the clear explanation about UTM digital. The open office is my favourite part of UTM digital because it is different from the traditional office set up.
 </p>
 
-<p>
+<p align="center>
   This is how the open office looks like
 </p>
 <p align="center">
     <img src="https://github.com/mavis-hql/Industrial-Visit-2/assets/151108692/980b245f-36c6-4949-a85f-3c4d27c1ea51" width="300">
 </p>
-<p>
+<p align="center>
   This is the UTM digital care unit. We didn't manage to take any pictures of the data centre for security measures.
 </p>
 <p align="center">
